@@ -14,11 +14,11 @@ A robust, CLI-based Student Management System built with Python. This project ma
 <h3>System Architecture</h3><br>
 This project was designed following professional software engineering principles:<br>
 1. Use Case Diagram<br>
-The system allows an Administrator to interact with the core database through five main operations.
+The system allows an Administrator to interact with the core database through five main operations.<br>
 2. Entity Relationship Diagram (ERD)<br>
 The data is structured around the Student entity with the following attributes:
 <code>std_ID (Primary Key / Unique)
-std_name, std_fname, std_age, std_Email, std_phone, std_section</code>
+std_name, std_fname, std_age, std_Email, std_phone, std_section</code><br>
 3. Data Flow (DFD)<br>
 Data flows from the user input through validation logic in Python before being committed to the std.json storage file.
 
@@ -40,7 +40,7 @@ cd student-management-system
 Bash
 python main.py<br>
 <h3>Code Structure</h3>
-Plaintext
+Plaintext<br>
 <code>── main.py          # Main application logic and loop
 ├── std.json         # Data storage file (generated automatically)
 └── README.md        # Project documentation</code>├
