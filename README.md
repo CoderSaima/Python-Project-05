@@ -41,6 +41,6 @@ Bash
 python main.py<br>
 <h3>Code Structure</h3>
 Plaintext
-├── main.py          # Main application logic and loop
+<code>── main.py          # Main application logic and loop
 ├── std.json         # Data storage file (generated automatically)
-└── README.md        # Project documentation
+└── README.md        # Project documentation</code>├
