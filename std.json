@@ -1,0 +1,20 @@
+[
+   {
+      "std_name": "Rabia",
+      "std_fname": "Lerreun",
+      "std_age": "21",
+      "std_ID": "1000",
+      "std_Email": "rabia@gmail.com",
+      "std_phone": "2222222323",
+      "std_section": "Arts"
+   },
+   {
+      "std_name": "Maira",
+      "std_fname": "Kevan",
+      "std_age": "20",
+      "std_ID": "maira",
+      "std_Email": "maira@gmail.com",
+      "std_phone": "0987654669",
+      "std_section": "Physics"
+   }
+]
